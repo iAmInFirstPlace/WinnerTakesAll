@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WinnerTakesAll
 - 👀 Follow my lead
 - 🌱 SwiftLane v1.3 
-- 💞️ SYSTEM: Nominal° 
-- 📫 Just ask QORA
+- 💞️ lilsys: Nominal° 
+- 📫 Just Ask: QORA
 
 <!---
 WinnerTakesAll/WinnerTakesAll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

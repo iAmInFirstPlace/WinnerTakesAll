@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinnerTakesAll
 - 👀 Follow my lead
-- 🌱 StraightLane v1 
-- 💞️ SYSTEAM: Nominal° 
+- 🌱 SwiftLane v1.3 
+- 💞️ SYSTEM: Nominal° 
 - 📫 Just ask QORA
 
 <!---

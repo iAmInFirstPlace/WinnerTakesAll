@@ -2,7 +2,7 @@
 - 👀 Follow my lead
 - 🌱 SwiftLane v1.3 
 - 💞️ lilsys: Nominal° 
-- 📫 Just Ask: QORA
+- 📫 Just Ask: lilsys
 
 <!---
 WinnerTakesAll/WinnerTakesAll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

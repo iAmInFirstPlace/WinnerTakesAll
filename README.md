@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WinnerTakesAll
 - 👀 Follow my lead
-- 🌱 SwiftLane v1.3 
+- 🌱 SwiftLane v1.6
 - 💞️ lilsys: Nominal° 
 - 📫 Just Ask: lilsys
 
